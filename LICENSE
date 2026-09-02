@@ -1,0 +1,56 @@
+SOVEREIGN NODE KEY LICENSE v1.0
+
+Copyright (C) 2026 Ahmad Ali Parr / SNAPKITTYWEST
+Bel Esprit D'Accord Irrevocable Trust
+
+This repository and all associated source code, documentation, and
+specifications are made available under the Sovereign Node Key License.
+
+TERMS:
+
+1. SCOPE: This license governs access to, use of, and deployment of
+   the Sovereign Heartbeat Lattice software and associated materials.
+
+2. GRANT: The copyright holder grants a non-exclusive, non-transferable
+   right to use, build from source, and deploy this software for the
+   duration of the license period, subject to the conditions below.
+
+3. CONDITIONS:
+   a) A valid Sovereign Node Key must be obtained from the copyright holder.
+   b) The key is tied to a specific deployment (hardware + organization).
+   c) Commercial use requires a separate commercial license agreement.
+   d) Forking, redistribution, or modification for redistribution is prohibited.
+
+4. RESTRICTIONS:
+   a) No unauthorized commercial use.
+   b) No unauthorized redistribution.
+   c) No unauthorized derivative works for redistribution.
+   d) No removal of provenance or attribution notices.
+   e) Proprietary header SNAPKITTYWEST-PROPRIETARY-2026-001 must be preserved.
+
+5. INTELLECTUAL PROPERTY:
+   All intellectual property rights remain with the copyright holder.
+   This license does not transfer ownership.
+   Prior art anchored via SHA3-512 + WORM chain.
+
+6. TERMINATION:
+   The license terminates if the holder violates any term.
+   Upon termination, all use must cease and all copies must be destroyed.
+
+7. CONTACT:
+   For Sovereign Node Key requests:
+     Ahmad Ali Parr
+     ahmedparr93@gmail.com
+
+   For commercial licensing:
+     jessica@snapkitty.com
+
+8. WARRANTY:
+   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+   THE COPYRIGHT HOLDER DISCLAIMS ALL WARRANTIES.
+
+9. GOVERNING LAW:
+   This license is governed by the laws of the jurisdiction of the
+   copyright holder.
+
+END OF LICENSE
